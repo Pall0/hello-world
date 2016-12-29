@@ -1,7 +1,2 @@
-ciao ù
-ciao dai
-sodjdj
-asaz
-evviva la
-indovina
-blau
+first line
+second line
